@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @AnujChahal
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin, Jetpack Compose
-- 💞️ I’m looking to collaborate on Kotlin and Jetpack Compose and Machine Learning related projects
+- 👋 Hi, I’m Anuj Chahal.
+- 👀 I’m an Android Developer.
+- 🌱 I’m currently learning Kotlin, Jetpack Compose.
+- 💞️ I’m looking to collaborate on Kotlin and Jetpack Compose related projects. Do have knowledge of MVVM architecture pattern.
 - 📫 How to reach me anujchahal1079sr@gmail.com
 - 😄 Pronouns: He/Him/Mr.
-- ⚡ Fun fact: Always a learner🥰🥰
+- ⚡ Fun fact: Always a learner🥰🥰.
 
 <!---
 AnujChahal/AnujChahal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
