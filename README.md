@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Anuj</h1>
 <h3 align="center">A passionate Android App developer from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raman095&label=Profile%20views&color=0e75b6&style=flat" alt="raman095" /> </p>
+
 - 🌱 I’m always learning **Android App Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnujChahal](https://github.com/AnujChahal)
