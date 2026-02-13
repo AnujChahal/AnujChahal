@@ -32,3 +32,7 @@
      src="https://github-readme-stats.vercel.app/api/top-langs?username=Anujhahal&show_icons=true&locale=en&layout=compact" 
      alt="AnujChahal" />
 </p>
+<p>
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=AnujChahal&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
